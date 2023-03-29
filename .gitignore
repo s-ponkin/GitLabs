@@ -1,2 +1,3 @@
-Dir/*.log
-!Dir/good.log
+GitLabs.iml
+Dir/
+.idea/workspace.xml
