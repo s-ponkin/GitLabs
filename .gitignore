@@ -1,0 +1,2 @@
+Dir/*.log
+!Dir/good.log
