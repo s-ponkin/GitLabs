@@ -11,6 +11,8 @@ public class Main {
 
         }
 
+        System.out.println();
+
         Set<Integer> number = new HashSet<>();
         number.add(1);
         number.add(2);
