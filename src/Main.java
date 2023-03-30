@@ -10,6 +10,8 @@ public class Main {
             System.out.println("У меня отличные новости!");
         }
 
+        System.out.println();
+
         Set<Integer> number = new HashSet<>();
         number.add(1);
         number.add(2);
