@@ -13,5 +13,6 @@ public class Main {
         number.add(1);
         number.add(2);
         number.add(1);
+        number.add(3);
     }
 }
