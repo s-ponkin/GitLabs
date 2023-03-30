@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Set;
+import java.util.Random;
 
 public class Main {
 
@@ -20,5 +21,8 @@ public class Main {
         number.add(3);
 
         ArrayList<Integer> abc = new ArrayList<>();
+        
+        Random random = new Random();
+        random.ints(3).forEach(System.out::println);
     }
 }
