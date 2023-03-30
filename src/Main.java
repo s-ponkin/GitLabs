@@ -6,6 +6,7 @@ public class Main {
         for (int i = 0; i < 10; i++) {
             System.out.print("Hello my");
             System.out.println(" friend!");
+            System.out.println("Bay");
         }
 
         Scanner scanner = new Scanner(System.in);
