@@ -1,3 +1,5 @@
 GitLabs.iml
 Dir/
 .idea/workspace.xml
+out/
+.idea/

@@ -19,6 +19,8 @@ public class Main {
         number.add(1);
         number.add(3);
 
+        System.out.println(number.size() == 3?3:2);
+
         ArrayList<Integer> abc = new ArrayList<>();
     }
 }
